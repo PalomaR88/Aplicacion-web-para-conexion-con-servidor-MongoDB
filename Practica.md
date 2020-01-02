@@ -135,6 +135,6 @@ $ sudo systemctl restart apache2
 ~~~
 
 ### Comprobación de la aplicación
-![imagen1](aimg.png)
-![imagen2](bimg.png)
-![imagen3](cimg.png)
+![imagen1](images/aimg.png)
+![imagen2](images/bimg.png)
+![imagen3](images/cimg.png)
